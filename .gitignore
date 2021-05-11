@@ -136,3 +136,4 @@ fabric.properties
 deploy/docker/data/
 bin/
 g_old/
+.idea/
